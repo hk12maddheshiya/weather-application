@@ -13,7 +13,7 @@
 - CSS
 - JavaScript
 - VS Code
-- SheCodes Weather API
+- Weather API
 
 # Installation and Usage
 To use this app, you can follow these steps:
